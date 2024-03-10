@@ -8,7 +8,7 @@ android {
 
     defaultConfig {
         applicationId = "com.example.modbustest0309"
-        minSdk = 34
+        minSdk = 14
         targetSdk = 34
         versionCode = 1
         versionName = "1.0"
